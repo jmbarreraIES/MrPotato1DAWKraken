@@ -1,2 +1,10 @@
 Creo la cabeza
+<<<<<<< Updated upstream
 Y el cuerpo
+=======
+Y el cuerpo
+Brazo Izquiero
+Brazo Derecho
+Pierna Izquierda
+Pierna Derecha
+>>>>>>> Stashed changes
